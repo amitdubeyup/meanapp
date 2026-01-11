@@ -1,8 +1,8 @@
-# meanapp
+# mean-stack-crud
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-MEAN App Boiler Plate
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ## 🚀 Tech Stack
 
@@ -22,8 +22,8 @@ MEAN App Boiler Plate
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/meanapp.git
-cd meanapp
+git clone https://github.com/amitdubeyup/mean-stack-crud.git
+cd mean-stack-crud
 
 # Install dependencies
 npm install
@@ -59,7 +59,7 @@ npm run build
 ## 📁 Project Structure
 
 ```
-meanapp/
+mean-stack-crud/
 ├── public/
 ├── routes/
 ├── models/
